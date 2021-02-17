@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "e1b93533ec91db59",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8914b8c7fa0b164",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/test/ddd.md.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a077aa25d9465ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b896f4a846172116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f036d038480790",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6cdb978877aefa7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef5ac6ed7b694cbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f7d7e61d054bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5e2eaa6fdd330b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/test/ddd.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "docs/test/ddd.md.md",
+    "docs/doc2.md",
+    "docs/test/Untitled.md",
+    "docs/doc1.md",
+    "docs/test/Untitled 1.md",
+    "README.md"
+  ]
+}
